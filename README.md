@@ -13,7 +13,7 @@
 - JavaScript, HTML, CSS
 
 ### Demo:
-🔗 [Live Demo](https://mazenmo77amed.github.io/cryptoplace/)
+🔗 https://mazenmo77amed.github.io/cryptoplace/
 
 
 
