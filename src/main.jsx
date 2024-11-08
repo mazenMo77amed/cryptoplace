@@ -7,7 +7,7 @@ import CoinContextProvider from './Context/CoinContext.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter basename='/Crypto-Place/'>
+    <BrowserRouter basename='/cryptoplace/'>
       <CoinContextProvider>
         <App />
       </CoinContextProvider>
